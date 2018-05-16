@@ -1,0 +1,163 @@
+#introTitle{
+	position: absolute;
+    	font-size: 50px;
+    	font-style: bold;
+    	font-family: FANTASY;
+    	margin-left: 480px;
+}
+
+.signUp{
+	position: absolute;
+    	margin-left: 270px;
+    	border: 1px solid #e6d7d7;
+    	border-radius: 10px;
+    	padding: 10px;
+    	width: 300px;
+    	height: 300px;
+	margin-top: 100px;
+}
+
+.signIn{
+	position: absolute;
+   	margin-left: 700px;
+    	border: 1px solid #e6d7d7;
+    	border-radius: 10px;
+    	padding: 10px;
+    	width: 300px;
+    	height: 300px;
+	margin-top: 100px;
+}
+
+#signIn{
+	position: absolute;
+    	border: 1px solid grey;
+    	width: 285px;
+    	height: 265px;
+	padding: 5px;
+}
+
+#username{
+	position: absolute;
+    	padding: 5;
+    	width: 275px;
+    	border-radius: 5px;
+    	background-color: #fdf5f5;
+	margin-top: 10px;
+}
+
+#email{
+	position: absolute;
+    	padding: 5;
+    	width: 275px;
+    	border-radius: 5px;
+    	background-color: #fdf5f5;
+	margin-top: 20px;
+}
+
+#password{
+	position: absolute;
+    	padding: 5;
+    	width: 275px;
+    	border-radius: 5px;
+    	background-color: #fdf5f5;
+	margin-top: 30px;
+}
+
+#signInSubmit{
+	position: absolute;
+    	margin-top: 55px;
+    	width: 280px;
+    	border-radius: 10px;
+}
+
+#usernameLabel{
+	position: absolute;
+	margin-left: 98px;
+}
+
+#emailLabel{
+	position: absolute;
+    	margin-left: 110px;
+    	margin-top: 15px;
+}
+
+#passwordLabel{
+	position: absolute;
+    	margin-left: 100px;
+    	margin-top: 25px;
+}
+
+#signUp{
+	position: absolute;
+    	margin-left: 110px;
+    	margin-top: 15px;
+}
+
+#usernameSignUp{
+	position: absolute;
+    	padding: 5;
+    	width: 275px;
+    	border-radius: 5px;
+    	background-color: #fdf5f5;
+	margin-left: -100px;
+}
+
+#emailSignUp{
+	position: absolute;
+    	padding: 5;
+    	width: 275px;
+    	border-radius: 5px;
+    	background-color: #fdf5f5;
+	margin-top: 10px;
+	margin-left: -100px;
+}
+
+#passwordSignUp{
+	position: absolute;
+    	padding: 5;
+    	width: 275px;
+    	border-radius: 5px;
+    	background-color: #fdf5f5;
+	margin-top: 20px;
+	margin-left: -100px;
+}
+
+#signUpSubmit{
+	position: absolute;
+    	margin-top: 50px;
+    	width: 280px;
+    	border-radius: 10px;
+	margin-left: -100px;
+}
+
+#usernameLabelSignUp{
+	position: absolute;
+	margin-left: 0px;
+}
+
+#emailLabelSignUp{
+	position: absolute;
+    	margin-left: 15px;
+    	margin-top: 5px;
+}
+
+#passwordLabelSignUp{
+	position: absolute;
+    	margin-left: 0px;
+    	margin-top: 15px;
+}
+
+#buildTitle{
+	position: absolute;
+	margin-top: 640px;
+	font-size: 20px;
+}
+
+#signUpContent{
+	position: absolute;
+    	margin-top: 450px;
+    	font-size: 25px;
+    	font-family: monospace;
+    	color: grey;
+    	margin-left: 380px;
+}
